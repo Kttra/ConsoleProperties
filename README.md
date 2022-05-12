@@ -4,3 +4,12 @@ This program shows how to change console properties like the console position, s
 For convenience purposes, all the commands will be put into one cpp file. The commands that will be included are: two clear functions, an always on top function, a not always on top function, a set position function, and a set size function.
 
 An executable file will also be included to showcase the commands in action. This program was mainly created because fancy GUI's and UI's are not always neccessary to make. Sometimes just having a simple light-weight console window will suffice. By using these functions, it can help usability by allowing more customization to suit one's preferences.
+
+**Summary**
+-----------------
+Below are the functions included in the cpp
+- **Cls/Clear** - Clear the console
+- **AlwaysOnTop** - Make the console have top most priority
+- **SetWindow** - Change the size of the console
+- **NotAlwaysOnTop** - Turn off the top most property
+- **SetWindowPos** - Change the position of the console
